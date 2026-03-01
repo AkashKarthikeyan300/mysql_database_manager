@@ -20,7 +20,9 @@ Python-based command-line interface for MySQL database operations.
 - Code upload
 
 Built with Python + MySQL
+
 mysql-connector-python==8.0.33
+
 pyfiglet==0.8.post1
 
 __pycache__/
